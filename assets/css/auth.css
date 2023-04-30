@@ -30,16 +30,16 @@
         width: 100%; } }
   
   .text-wrap {
-    background: #f75959;
-    background: -moz-linear-gradient(-45deg, #f75959 0%, #f35587 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, #f75959), color-stop(100%, #f35587));
-    background: -webkit-linear-gradient(-45deg, #f75959 0%, #f35587 100%);
-    background: -o-linear-gradient(-45deg, #f75959 0%, #f35587 100%);
-    background: -ms-linear-gradient(-45deg, #f75959 0%, #f35587 100%);
-    background: -webkit-linear-gradient(315deg, #f75959 0%, #f35587 100%);
-    background: -o-linear-gradient(315deg, #f75959 0%, #f35587 100%);
-    background: linear-gradient(135deg, #f75959 0%, #f35587 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f75959', endColorstr='#f35587', GradientType=1 );
+    background: #3a58a0;
+    background: -moz-linear-gradient(-45deg, #3a58a0 0%, #66adff 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, #3a58a0), color-stop(100%, #66adff));
+    background: -webkit-linear-gradient(-45deg, #3a58a0 0%, #66adff 100%);
+    background: -o-linear-gradient(-45deg, #3a58a0 0%, #66adff 100%);
+    background: -ms-linear-gradient(-45deg, #3a58a0 0%, #66adff 100%);
+    background: -webkit-linear-gradient(315deg, #3a58a0 0%, #66adff 100%);
+    background: -o-linear-gradient(315deg, #3a58a0 0%, #66adff 100%);
+    background: linear-gradient(135deg, #3a58a0 0%, #66adff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a58a0', endColorstr='#66adff', GradientType=1 );
     color: #fff; }
     .text-wrap .text h2 {
       font-weight: 900;
@@ -115,7 +115,7 @@
       .social-media .social-icon span {
         color: #999999; }
       .social-media .social-icon:hover, .social-media .social-icon:focus {
-        background: #f35588; }
+        background: #3a58a0; }
         .social-media .social-icon:hover span, .social-media .social-icon:focus span {
           color: #fff; }
   
@@ -172,9 +172,9 @@
   
   /* Style the checkmark/indicator */
   .checkbox-primary {
-    color: #f35588; }
+    color: #3a58a0; }
     .checkbox-primary input:checked ~ .checkmark:after {
-      color: #f35588; }
+      color: #3a58a0; }
   
   .btn {
     cursor: pointer;
@@ -186,30 +186,30 @@
     .btn:hover, .btn:active, .btn:focus {
       outline: none; }
     .btn.btn-primary {
-      background: #f35588;
-      border: 1px solid #f35588;
+      background: #3a58a0;
+      border: 1px solid #3a58a0;
       color: #fff;
-      background: #f75959;
-      background: -moz-linear-gradient(-45deg, #f75959 0%, #f35587 100%);
-      background: -webkit-gradient(left top, right bottom, color-stop(0%, #f75959), color-stop(100%, #f35587));
-      background: -webkit-linear-gradient(-45deg, #f75959 0%, #f35587 100%);
-      background: -o-linear-gradient(-45deg, #f75959 0%, #f35587 100%);
-      background: -ms-linear-gradient(-45deg, #f75959 0%, #f35587 100%);
-      background: -webkit-linear-gradient(315deg, #f75959 0%, #f35587 100%);
-      background: -o-linear-gradient(315deg, #f75959 0%, #f35587 100%);
-      background: linear-gradient(135deg, #f75959 0%, #f35587 100%);
-      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f75959', endColorstr='#f35587', GradientType=1 ); }
+      background: #3a58a0;
+      background: -moz-linear-gradient(-45deg, #3a58a0 0%, #66adff 100%);
+      background: -webkit-gradient(left top, right bottom, color-stop(0%, #3a58a0), color-stop(100%, #66adff));
+      background: -webkit-linear-gradient(-45deg, #3a58a0 0%, #66adff 100%);
+      background: -o-linear-gradient(-45deg, #3a58a0 0%, #66adff 100%);
+      background: -ms-linear-gradient(-45deg, #3a58a0 0%, #66adff 100%);
+      background: -webkit-linear-gradient(315deg, #3a58a0 0%, #66adff 100%);
+      background: -o-linear-gradient(315deg, #3a58a0 0%, #66adff 100%);
+      background: linear-gradient(135deg, #3a58a0 0%, #66adff 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a58a0', endColorstr='#66adff', GradientType=1 ); }
       .btn.btn-primary:hover {
-        border: 1px solid #f35588;
-        background: #f35588;
+        border: 1px solid #3a58a0;
+        background: #3a58a0;
         color: #fff; }
       .btn.btn-primary.btn-outline-primary {
-        border: 1px solid #f35588;
+        border: 1px solid #3a58a0;
         background: transparent;
-        color: #f35588; }
+        color: #3a58a0; }
         .btn.btn-primary.btn-outline-primary:hover {
           border: 1px solid transparent;
-          background: #f35588;
+          background: #3a58a0;
           color: #fff; }
     .btn.btn-white {
       background: #fff;
